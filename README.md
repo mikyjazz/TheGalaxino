@@ -111,7 +111,7 @@ The PCB (printed circuit board)
 - 5 Assembly of LCD display
 ![Step 5](docs/img/build_5.jpeg?raw=true "Step 5")
 - 6 Assembly of CPU and battery. Complete!
-![Step 6](docs/img/build_6.jpeg?raw=true "Step 6")
+![Step 6](docs/img/build_6.jpg?raw=true "Step 6")
 
 
 ## Firmware
