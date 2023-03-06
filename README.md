@@ -98,7 +98,7 @@ The components marked as (optional) must be installed only if you want to have t
 ## Building Steps
 
 The PCB (printed circuit board)
-![PCB](docs/img/2D_PCB_TOP?raw=true "PCB")
+![PCB](docs/schematics/2D_PCB_TOP.png?raw=true "PCB")
 
 - 1 Assembly of smd connectors and resistors
 ![Step 1](docs/img/build_1.jpeg?raw=true "Step 1")
