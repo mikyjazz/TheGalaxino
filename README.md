@@ -98,15 +98,15 @@ The components marked as (optional) must be installed only if you want to have t
 ## Building Steps
 
 - 1 Assembly of smd connectors and resistors
-![Step 1](docs/img/build_1.png?raw=true "Step 1")
+![Step 1](docs/img/build_1.jpeg?raw=true "Step 1")
 - 2 Assembly of integrated circuits
-![Step 2](docs/img/build_2.png?raw=true "Step 2")
+![Step 2](docs/img/build_2.jpeg?raw=true "Step 2")
 - 3 Assembly of capacitors, transitor, oscillator crystal, battery holder
-![Step 3](docs/img/build_3.png?raw=true "Step 3")
+![Step 3](docs/img/build_3.jpeg?raw=true "Step 3")
 - 4 Assembly of sockets, level converter, rotary switch and led
-![Step 4](docs/img/build_4.png?raw=true "Step 4")
+![Step 4](docs/img/build_4.jpeg?raw=true "Step 4")
 - 5 Assembly of LCD display
-![Step 5](docs/img/build_5.png?raw=true "Step 5")
+![Step 5](docs/img/build_5.jpeg?raw=true "Step 5")
 
 
 ## Firmware
