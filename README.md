@@ -86,7 +86,7 @@ The components marked as (optional) must be installed only if you want to have t
 
 - SD Card socket: https://it.aliexpress.com/item/1005002327556213.html
 
-- DIN 8 pole connector: https://www.aliexpress.com/item/1005002331748706.html
+- DIN 8 pole connector: https://it.aliexpress.com/item/32981543684.html
 
 - USB C (power) connector: https://it.aliexpress.com/item/1005003101061485.html (Type 06)
 
