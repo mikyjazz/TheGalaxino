@@ -31,7 +31,7 @@ The BOM for The Galaxino is:
     - 1 x 1 KOhm
     - 1 x 1.5 KOhm
     - 2 x 2 KOhm (2.2 KOhm)
-    - 1 z 3.3 KOhm
+    - 1 x 3.3 KOhm
     - 6 x 10 KOhm 
     - 1 x 100 KOhm 
 
