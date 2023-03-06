@@ -8,4 +8,4 @@ Directories can be selected in the same manner, use the previous directory ".." 
 
 WAV files with names longer than the LCD display width will scroll after a short pause. The scroll rate can be changed in the [Settings Menu](/docs/ui/SettingsMenu.md).
 
-Once you have selected a GTP file, the file will be verified and on success the load will start.
+Once you have selected a WAV file, the file will be verified and on success the load will start.
