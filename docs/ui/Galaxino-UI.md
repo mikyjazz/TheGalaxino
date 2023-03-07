@@ -1,11 +1,11 @@
 # Galaxino UI
 
-## Navigation
+## Navigation Buttons
 
 The Galaxino user interface can mount a rotary encoder or four buttons with the same functions.
 
 The rotary encoder or the buttons are used to navigate through the various menus, options and functions of the firmware.
-
+<pre>
 | Encoder action    | Encoder action description        || Button   | Button action || UI Result            |  
 | ------------------| --------------------------------- || -------- | ------------- || -------------------- |  
 | Left              | Turn encoder anti-clockwise       || Previous | Click         || Previous menu / item |  
@@ -13,10 +13,10 @@ The rotary encoder or the buttons are used to navigate through the various menus
 | ButtonClick       | Press the encoder button          || Select   | Click         || Select               |  
 | ButtonDoubleClick | Double Press the encoder button   || Select   | Double Click  || Enter                |  
 | ButtonHold        | Press and hold the encoder button || Cancel   | Click         || Back / cancel        |  
-
+</pre>
 The **ButtonClick**, **ButtonDoubleClick** and **ButtonHold** actions have context specific functionality that will be described in the corresponding help sections.
 
-### Menu Navigation
+## Menu Navigation
 
 - Use the encoder to scroll through the menus at the current level.
 - Click **ButtonClick** to select a sub-menu / action
